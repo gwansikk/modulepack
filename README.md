@@ -16,7 +16,7 @@
 > [!CAUTION]
 > modulepack is currently in development. The provided API is subject to change.
 
-It is a tool that helps combine multiple versions of modules into a single universal module to resolve compatibility issues arising from version updates.
+By integrating multiple versions of modules into a single universal module, we provide a solution to compatibility issues arising from breaking changes. This allows developers to minimize conflicts that may occur in projects using various versions of modules, enhancing the maintainability of the code. The universal module supports the functionalities of each version while offering users a consistent interface, contributing to an improved development experience.
 
 ### This is not a bundler
 
